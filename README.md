@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rajanikanth45
 - 👀 I’m interested in WEB DEVELOPMENT
 - 🌱 I’m currently learning MERN STACK
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rajinikanthmukappa@gmail.com
 
 <!---
